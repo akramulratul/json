@@ -1,0 +1,550 @@
+{
+   "deliveries": [
+      {
+         "parcels": [
+            {
+               "count": 1,
+               "weight": 91.0,
+               "type": "pallet"
+            }
+         ],
+         "fileReferences": [
+            "20220426_1218432259689874775615245.webp"
+         ],
+         "siteId": "7f5d0a3a071b4952bef4",
+         "status": "completed",
+         "uid": "5f8c4d8defee46178d9f",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "modified": "2022-04-28T13:06:11.702Z",
+         "created": "2022-04-28T04:19:04.996Z",
+         "description": ""
+      },
+      {
+         "uid": "8d227da4bece4e589ea0",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "parcels": [
+            {
+               "weight": 44.3,
+               "count": 1,
+               "type": "pallet"
+            }
+         ],
+         "description": "testi",
+         "fileReferences": [],
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "status": "completed",
+         "modified": "2022-04-27T13:06:11.701Z",
+         "created": "2022-04-27T04:06:12.449Z"
+      },
+      {
+         "parcels": [
+            {
+               "count": 1,
+               "weight": 161.5,
+               "type": "pallet"
+            }
+         ],
+         "fileReferences": [
+            "20220426_1218432259689874775615245.webp"
+         ],
+         "siteId": "7f5d0a3a071b4952bef4",
+         "status": "completed",
+         "uid": "5f8c4d8defee46178d9f",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "modified": "2022-04-26T13:06:11.702Z",
+         "created": "2022-04-26T09:19:04.996Z",
+         "description": ""
+      },
+      {
+         "uid": "8d227da4bece4e589ea0",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "parcels": [
+            {
+               "weight": 54.5,
+               "count": 1,
+               "type": "pallet"
+            }
+         ],
+         "description": "testi",
+         "fileReferences": [],
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "status": "completed",
+         "modified": "2022-04-26T13:06:11.701Z",
+         "created": "2022-04-26T04:06:12.449Z"
+      },
+      {
+         "siteId": "7f5d0a3a071b4952bef4",
+         "created": "2022-04-25T04:00:43.435Z",
+         "description": "testi",
+         "status": "completed",
+         "parcels": [
+            {
+               "type": "pallet",
+               "weight": 59,
+               "count": 1
+            }
+         ],
+         "fileReferences": [],
+         "modified": "2022-04-25T10:32:58.695Z",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "uid": "afac4cab08da48b59db4"
+      },
+      {
+         "description": "",
+         "status": "completed",
+         "created": "2022-04-25T09:56:23.547Z",
+         "modified": "2022-04-25T10:32:58.695Z",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "parcels": [
+            {
+               "count": 1,
+               "type": "pallet",
+               "weight": 70
+            }
+         ],
+         "fileReferences": [],
+         "uid": "a99d170fdb75497983b3",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2"
+      },
+      {
+         "fileReferences": [
+            "20220423_0702474289577584814644595.webp"
+         ],
+         "description": "",
+         "modified": "2022-04-23T10:42:54.038Z",
+         "uid": "f067e777b4054559a347",
+         "parcels": [
+            {
+               "weight": 51,
+               "type": "pallet",
+               "count": 1
+            }
+         ],
+         "created": "2022-04-23T04:03:04.299Z",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "status": "completed"
+      },
+      {
+         "status": "completed",
+         "fileReferences": [
+            "20220422_0650467564526449933279649.webp"
+         ],
+         "modified": "2022-04-22T10:30:42.675Z",
+         "parcels": [
+            {
+               "weight": 158,
+               "type": "pallet",
+               "count": 1
+            }
+         ],
+         "description": "",
+         "created": "2022-04-22T03:50:58.395Z",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "uid": "b1234d6d8d084466a585"
+      },
+      {
+         "uid": "17e6f60bfd744f13b02c",
+         "status": "completed",
+         "parcels": [
+            {
+               "type": "pallet",
+               "weight": 82.5,
+               "count": 1
+            }
+         ],
+         "siteId": "7f5d0a3a071b4952bef4",
+         "modified": "2022-04-21T06:51:15.183Z",
+         "created": "2022-04-21T04:08:25.915Z",
+         "description": "testi",
+         "fileReferences": [],
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2"
+      },
+      {
+         "uid": "e6a22667d8ee44e0bb45",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "parcels": [
+            {
+               "count": 1,
+               "type": "pallet",
+               "weight": 57.5
+            }
+         ],
+         "fileReferences": [],
+         "siteId": "7f5d0a3a071b4952bef4",
+         "status": "completed",
+         "description": "testi",
+         "modified": "2022-04-20T10:08:57.068Z",
+         "created": "2022-04-20T04:10:53.374Z"
+      },
+      {
+         "siteId": "7f5d0a3a071b4952bef4",
+         "modified": "2022-04-19T06:25:56.158Z",
+         "created": "2022-04-19T04:04:24.457Z",
+         "description": "testi",
+         "fileReferences": [],
+         "uid": "30e1df4f873a4f6bbf2d",
+         "status": "completed",
+         "parcels": [
+            {
+               "count": 1,
+               "type": "pallet",
+               "weight": 65.5
+            }
+         ],
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2"
+      },
+      {
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "modified": "2022-04-14T10:25:34.251Z",
+         "uid": "29f4f38fa13049239025",
+         "fileReferences": [
+            "20220414_1320092822918065903813599.webp",
+            "20220414_1319496311106715064927370.webp"
+         ],
+         "description": "",
+         "status": "completed",
+         "parcels": [
+            {
+               "weight": 117.5,
+               "count": 1,
+               "type": "pallet"
+            }
+         ],
+         "created": "2022-04-14T10:20:26.146Z"
+      },
+      {
+         "parcels": [
+            {
+               "type": "pallet",
+               "count": 1,
+               "weight": 73.5
+            }
+         ],
+         "uid": "bb5483c9a8214ca28da5",
+         "fileReferences": [],
+         "siteId": "7f5d0a3a071b4952bef4",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "modified": "2022-04-14T05:11:40.927Z",
+         "status": "completed",
+         "created": "2022-04-14T04:09:30.317Z",
+         "description": "testi"
+      },
+      {
+         "status": "completed",
+         "description": "",
+         "uid": "6f3cf93e470243f58c97",
+         "created": "2022-04-13T10:44:09.279Z",
+         "fileReferences": [],
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "parcels": [
+            {
+               "type": "pallet",
+               "weight": 209,
+               "count": 1
+            }
+         ],
+         "siteId": "7f5d0a3a071b4952bef4",
+         "modified": "2022-04-13T11:39:14.938Z"
+      },
+      {
+         "parcels": [
+            {
+               "count": 1,
+               "type": "pallet",
+               "weight": 79
+            }
+         ],
+         "modified": "2022-04-13T11:39:14.938Z",
+         "description": "testi",
+         "uid": "59b37a8583514412a441",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "fileReferences": [],
+         "status": "completed",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "created": "2022-04-13T04:07:23.768Z"
+      },
+      {
+         "siteId": "7f5d0a3a071b4952bef4",
+         "created": "2022-04-12T11:12:33.288Z",
+         "fileReferences": [
+            "20220412_141215793732548064697747.webp"
+         ],
+         "parcels": [
+            {
+               "weight": 149,
+               "count": 1,
+               "type": "pallet"
+            }
+         ],
+         "description": "",
+         "status": "completed",
+         "uid": "b14cf3c7ca6d4223bc35",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "modified": "2022-04-12T11:38:02.942Z"
+      },
+      {
+         "created": "2022-04-12T04:15:08.687Z",
+         "fileReferences": [
+            "20220412_0714577802270515023603304.webp"
+         ],
+         "description": "",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "modified": "2022-04-12T11:38:02.942Z",
+         "status": "completed",
+         "parcels": [
+            {
+               "type": "pallet",
+               "weight": 83,
+               "count": 1
+            }
+         ],
+         "uid": "9ec592db3d8d49919f1f"
+      },
+      {
+         "uid": "98aa19e569eb4ec0b0a8",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "fileReferences": [
+            "20220411_1255528141660379306761466.webp"
+         ],
+         "modified": "2022-04-11T10:14:54.009Z",
+         "description": "",
+         "parcels": [
+            {
+               "type": "pallet",
+               "weight": 140,
+               "count": 1
+            }
+         ],
+         "created": "2022-04-11T09:56:08.898Z",
+         "status": "completed"
+      },
+      {
+         "modified": "2022-04-11T10:14:54.009Z",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "parcels": [
+            {
+               "count": 1,
+               "weight": 93,
+               "type": "pallet"
+            }
+         ],
+         "created": "2022-04-11T04:07:59.306Z",
+         "status": "completed",
+         "fileReferences": [],
+         "description": "testi",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "uid": "9c067fad2f1042aa8835"
+      },
+      {
+         "status": "completed",
+         "modified": "2022-04-09T09:42:22.584Z",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "parcels": [
+            {
+               "weight": 94.5,
+               "count": 1,
+               "type": "pallet"
+            }
+         ],
+         "description": "",
+         "fileReferences": [
+            "20220409_1110488401720187305970188.webp"
+         ],
+         "uid": "32db689800be4e0b9c82",
+         "created": "2022-04-09T08:11:00.095Z",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2"
+      },
+      {
+         "fileReferences": [],
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "description": "testi",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "status": "completed",
+         "parcels": [
+            {
+               "type": "pallet",
+               "count": 1,
+               "weight": 82
+            }
+         ],
+         "created": "2022-04-09T04:06:54.570Z",
+         "uid": "1110293dc3b54d608570",
+         "modified": "2022-04-09T04:52:19.025Z"
+      },
+      {
+         "modified": "2022-04-08T11:25:06.314Z",
+         "uid": "2fc9d9c9e3cf4323821f",
+         "status": "completed",
+         "fileReferences": [
+            "20220408_1232241085804204300447584.webp"
+         ],
+         "siteId": "7f5d0a3a071b4952bef4",
+         "description": "",
+         "parcels": [
+            {
+               "weight": 93.5,
+               "count": 1,
+               "type": "pallet"
+            }
+         ],
+         "created": "2022-04-08T09:32:35.135Z",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2"
+      },
+      {
+         "description": "testi ",
+         "uid": "8d7f6cff77fa4e838bde",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "modified": "2022-04-08T06:10:56.585Z",
+         "created": "2022-04-08T04:13:36.916Z",
+         "status": "completed",
+         "parcels": [
+            {
+               "weight": 100,
+               "type": "pallet",
+               "count": 1
+            }
+         ],
+         "fileReferences": [],
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2"
+      },
+      {
+         "modified": "2022-04-07T11:24:38.174Z",
+         "status": "completed",
+         "uid": "c57113c9ccb64112a371",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "fileReferences": [],
+         "parcels": [
+            {
+               "type": "pallet",
+               "count": 1,
+               "weight": 137
+            }
+         ],
+         "created": "2022-04-07T11:12:04.723Z",
+         "description": ",imingantulli",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2"
+      },
+      {
+         "modified": "2022-04-07T05:17:30.061Z",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "created": "2022-04-07T04:13:43.555Z",
+         "fileReferences": [],
+         "siteId": "7f5d0a3a071b4952bef4",
+         "description": "lim7ngantulli",
+         "parcels": [
+            {
+               "type": "pallet",
+               "count": 1,
+               "weight": 59.5
+            }
+         ],
+         "uid": "98e9b120fcd346289113",
+         "status": "completed"
+      },
+      {
+         "uid": "cbe772b80c6643c48065",
+         "description": "",
+         "parcels": [
+            {
+               "weight": 113.5,
+               "type": "pallet",
+               "count": 1
+            }
+         ],
+         "created": "2022-04-06T10:20:11.828Z",
+         "fileReferences": [
+            "20220406_1319593616304607591553441.webp"
+         ],
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "modified": "2022-04-06T12:02:17.127Z",
+         "status": "completed"
+      },
+      {
+         "siteId": "7f5d0a3a071b4952bef4",
+         "uid": "07f58d40e8a14d75840c",
+         "description": "testi",
+         "status": "completed",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "modified": "2022-04-06T12:02:17.128Z",
+         "fileReferences": [],
+         "parcels": [
+            {
+               "count": 1,
+               "type": "pallet",
+               "weight": 59.5
+            }
+         ],
+         "created": "2022-04-06T04:08:09.636Z"
+      },
+      {
+         "siteId": "7f5d0a3a071b4952bef4",
+         "created": "2022-04-05T08:25:17.343Z",
+         "status": "completed",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "parcels": [
+            {
+               "count": 1,
+               "weight": 149.5,
+               "type": "pallet"
+            }
+         ],
+         "fileReferences": [
+            "20220405_1125046190511730044867615.webp"
+         ],
+         "uid": "42777242e5714ea08d4f",
+         "description": "",
+         "modified": "2022-04-05T09:04:11.061Z"
+      },
+      {
+         "description": "lim7ngantulli",
+         "modified": "2022-04-05T09:04:11.061Z",
+         "parcels": [
+            {
+               "type": "pallet",
+               "weight": 86,
+               "count": 1
+            }
+         ],
+         "status": "completed",
+         "uid": "3ad793ec02b041d78caf",
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2",
+         "fileReferences": [],
+         "created": "2022-04-05T04:07:01.588Z",
+         "siteId": "7f5d0a3a071b4952bef4"
+      },
+      {
+         "modified": "2022-04-01T11:01:43.051Z",
+         "created": "2022-04-01T09:08:34.596Z",
+         "siteId": "7f5d0a3a071b4952bef4",
+         "parcels": [
+            {
+               "type": "pallet",
+               "count": 1,
+               "weight": 134
+            }
+         ],
+         "description": "",
+         "uid": "0baef29acb6e467e9bf5",
+         "status": "completed",
+         "fileReferences": [
+            "20220401_1208206597779302740817366.webp"
+         ],
+         "userId": "yL74P9isxbMnz1BvXj6UedUPevY2"
+      }
+   ],
+   "summary": {
+      "weight": 1952.9,
+      "c02Reduction": 699.40,
+      "ch4Reduction": 486.55,
+      "transportationC02Emissions": 90,
+      "productionC02Emissions": 100,
+      "totalC02Reduction": 509.40,
+      "totalCh4Reduction": 486.55
+   }
+}
